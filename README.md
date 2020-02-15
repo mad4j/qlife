@@ -1,13 +1,18 @@
 # Q Life
 Notes and examples regarding Quantum Computing
 
+## PRNG1
+
+### Circuit
+![PRNG1](prng1.png)
+
 ## Entaglement
 
-## Circuit
+### Circuit
 ![Entaglement](entaglement.png)
 
 
-## Code
+### Code
 ```
 OPENQASM 2.0;
 include "qelib1.inc";
@@ -21,9 +26,9 @@ measure q[0] -> c[0];
 measure q[1] -> c[1];
 ```
 
-## Results
+### Results
 ![Entaglement](entaglement-results.png)
 
 
-# References
+## References
 * https://quantum-computing.ibm.com/
