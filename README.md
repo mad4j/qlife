@@ -22,4 +22,8 @@ measure q[1] -> c[1];
 ```
 
 ## Results
+![Entaglement](entaglement-results.png)
 
+
+# References
+* https://quantum-computing.ibm.com/
