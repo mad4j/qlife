@@ -1,6 +1,10 @@
 # Q Life
 Notes and examples regarding Quantum Computing
 
+* PRNG1
+* PRNG4
+* Entaglement
+
 ## PRNG1
 
 ### Circuit
