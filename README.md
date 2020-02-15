@@ -2,4 +2,4 @@
 Notes and examples regarding Quantum Computing
 
 ## Entaglement
-![Entaglement](entaglement.svg)
+![Entaglement](entaglement.png)
