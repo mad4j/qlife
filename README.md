@@ -31,7 +31,7 @@ measure q[0] -> c[0];
 Perfect 4-bits random generator.
 
 ### Circuit
-![PRNG4](prng4.png)
+![PRNG4](rng4.png)
 
 
 ### Code
@@ -54,7 +54,7 @@ measure q[3] -> c[3];
 ```
 
 ### Results
-![PRNG1](prng1-results.png)
+![PRNG1](rng4-results.png)
 
 
 ## Entaglement
