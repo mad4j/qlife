@@ -1,11 +1,12 @@
 # Q Life
 Notes and examples regarding Quantum Computing
 
-* PRNG1
-* PRNG4
-* Entaglement
+* [RNG1](#RNG1)
+* [RNG4](#RNG4)
+* [Entaglement](#Entaglement)
 
-## PRNG1
+## RNG1
+Perfect single-bit random generator.
 
 ### Circuit
 ![PRNG1](prng1.png)
